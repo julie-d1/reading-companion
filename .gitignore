@@ -1,0 +1,21 @@
+# Secrets — NEVER commit your API key
+.env
+
+# Books — bring your own; don't commit copyrighted text
+*.epub
+
+# Generated data (the vector index rebuilds itself)
+chroma/
+chroma_*/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# OS / editor cruft
+.DS_Store
+.vscode/
+.idea/
