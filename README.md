@@ -75,3 +75,11 @@ This tool works on a book *you* provide. It includes no book text — bring your
 ## Built with
 
 Python · Streamlit · OpenAI (chat, embeddings, image) · Chroma
+
+---
+
+## Author
+
+**Julisa Delfin** - MS Data Science, MS Artificial Intelligence, DePaul University
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/julisadelfin/)
