@@ -84,6 +84,10 @@ Python · Streamlit · OpenAI (chat, embeddings, image) · Chroma
 
 **Julisa Delfin** - MS Data Science, MS Artificial Intelligence, DePaul University
 
-MIT - [LICENSE](LICENSE)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/julisadelfin/)
+
+---
+
+## License
+
+MIT — see [LICENSE](LICENSE).
