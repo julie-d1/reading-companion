@@ -1,6 +1,6 @@
 # Spoiler-Safe Reading Companion
 
-A reading assistant that catches you up on a book, explains its words, pictures its characters, and discusses its plot — without ever revealing a single word past where you are.
+A reading assistant that catches you up on a book, explains its words, pictures its characters, and discusses its plot without ever revealing a single word past where you are.
 
 You set one thing: the chapter you're on. Every feature respects that boundary. The language model is never shown the chapters you haven't read, so it physically *can't* spoil them.
 
