@@ -4,6 +4,8 @@ A reading assistant that catches you up on a book, explains its words, pictures 
 
 You set one thing: the chapter you're on. Every feature respects that boundary. The language model is never shown the chapters you haven't read, so it physically *can't* spoil them.
 
+![Spoiler-safe recap](screenshots/recap.png)
+
 ## Features
 
 - **Catch me up** — a spoiler-free recap of the story so far.
